@@ -2,13 +2,35 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+- [Instructions](#instructions)
+- [softwares](#softwares)
+- [Index.html](#index)
+- [App.js](#app)
+- [Styles.css](#style)
+- [Running](#running)
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Starter code taken from udacity repository.
 
-To get started, open `js/app.js` and start building out the app's functionality
+this a landing page that uses js to build a fully dynamic navigation menu and to highlight sections when scrolled and back to top button to takes you back to the top of the page.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
-# udacity-landing
+## softwares
+
+this project are using `fontAwsome` for icons
+
+## Index
+
+index.html is the skeleton of the landing page.
+
+## App
+
+this file contains the whole js code.
+
+## Styles
+
+Most of the code here was taken from the skelton code provided by Udacity.
+
+## Running
+
+To launch this website, simply clone the repo and open the `index.html` file in the browser.
